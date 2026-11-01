@@ -121,3 +121,30 @@ Check running containers:
 
 ```bash
 docker ps
+
+
+## Project Screenshots
+
+### Docker Compose Configuration
+
+The Docker Compose configuration used to deploy and manage the home lab services.
+
+![Docker Compose](images/img_0778.png)
+
+### Container Configuration
+
+The Docker environment showing the deployed applications and their configuration.
+
+![Container Configuration](images/img_0779.png)
+
+### Running Containers
+
+Confirmation that all five Docker containers are running successfully.
+
+![Running Containers](images/img_0780.png)
+
+### Service Status
+
+Additional evidence of the deployed services and their availability.
+
+![Service Status](images/img_0781.png)
