@@ -129,22 +129,22 @@ docker ps
 
 The Docker Compose configuration used to deploy and manage the home lab services.
 
-![Docker Compose](images/img_0778.png)
+![Docker Compose](images/IMG_0778.jpg)
 
 ### Container Configuration
 
 The Docker environment showing the deployed applications and their configuration.
 
-![Container Configuration](images/img_0779.png)
+![Container Configuration](images/IMG_0779.jpg)
 
 ### Running Containers
 
 Confirmation that all five Docker containers are running successfully.
 
-![Running Containers](images/img_0780.png)
+![Running Containers](images/IMG_0780.jpg)
 
 ### Service Status
 
 Additional evidence of the deployed services and their availability.
 
-![Service Status](images/img_0781.png)
+![Service Status](images/IMG_0781.jpg)
