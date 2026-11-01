@@ -121,6 +121,7 @@ Check running containers:
 
 ```bash
 docker ps
+```
 
 ## Project Screenshots
 
