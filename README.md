@@ -122,7 +122,6 @@ Check running containers:
 ```bash
 docker ps
 
-
 ## Project Screenshots
 
 ### Docker Compose Configuration
